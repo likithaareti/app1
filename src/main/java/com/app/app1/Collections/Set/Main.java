@@ -12,6 +12,7 @@ public class Main {
         books.add("M");
         books.add("O");
         books.add("X");
+        books.add("X");
         System.out.println(books);
     }
 }

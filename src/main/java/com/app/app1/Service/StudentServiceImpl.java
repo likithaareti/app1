@@ -1,6 +1,6 @@
 package com.app.app1.Service;
 import com.app.app1.Exception.ResourceNotFound;
-import com.app.app1.Model.Student;
+import com.app.app1.Entity.Student;
 import com.app.app1.Repository.StudentRepository;
 import org.springframework.stereotype.Service;
 import java.util.List;

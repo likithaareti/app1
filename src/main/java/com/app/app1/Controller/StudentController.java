@@ -1,7 +1,6 @@
 package com.app.app1.Controller;
 
-import com.app.app1.Model.Student;
-import com.app.app1.Repository.StudentRepository;
+import com.app.app1.Entity.Student;
 import com.app.app1.Service.StudentService;
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Autowired;

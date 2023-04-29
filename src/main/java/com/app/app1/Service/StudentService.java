@@ -1,6 +1,6 @@
 package com.app.app1.Service;
 
-import com.app.app1.Model.Student;
+import com.app.app1.Entity.Student;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.app.app1.Model;
+package com.app.app1.Entity;
 
 import jakarta.persistence.*;
 import lombok.Data;
